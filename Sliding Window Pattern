@@ -2,4 +2,11 @@ Sliding Window Pattern
 
 Flowchart to Recognize the pattern
   If the question is of Array/ String
-    Then if it is asking about something Subarray/ Substring
+    Then if it is asking about something Subarray/ Substring [NOTE: The Subarray/Substring is continuous(Ye lagataar hoti hai beech me break nhi hoti.)]
+      Then we have to find that , Are we finding  -at most k/ at least k/ exact k 
+                                                  -Sum/Avg/count
+                                                  -Longest/ Shortest
+                                                  -Minimum
+                                                  -Maximum
+
+:-> Now this pattern shows question is of Sliding Window(90%), and we have to approach the question by Sliding Window first.
