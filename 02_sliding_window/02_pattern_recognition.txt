@@ -10,3 +10,8 @@ Flowchart to Recognize the pattern
                                                   -Maximum
 
 :-> Now this pattern shows question is of Sliding Window(90%), and we have to approach the question by Sliding Window first.
+
+Steps to approach a sliding window question.
+
+I->   Identify if the pattern is of sliding window or not.
+II->  Identify the window type Variable or Fixed
