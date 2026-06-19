@@ -1,0 +1,6 @@
+Framework for the pattern
+  Framework for Variable window is different and for the Fixed size window is different.
+
+Frame work for fixed size window:-
+    if the window is fixed the window size is mentioned somewhere in the question/riddle, we just need to find that out.
+    once it is found let's define it as 'k'
