@@ -1,0 +1,8 @@
+The goal of Kadanes Algorithm is to find the best ending or result at the last of the array as suited per situation.
+
+The Idea is : If your previous serial is powerful than you(in sense  it's helping you to get the best ending),
+                Just team up with that.
+            If you are more powerful than the previous serial(existing subarray), in sense the previous serial is spoiling
+                and you alone can make it better, abandon the previous serial-> Be a lone wolf.
+
+            And each time you get the best ending keep a remeberence of it (save the result).
