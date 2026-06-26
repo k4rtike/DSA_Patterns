@@ -1,0 +1,4 @@
+Thoought Process for Prefix Sum 
+ What is Prefix Sum?
+        Prefix sum is something like we have the sum calulated of the previous elements that are 
+        present before the point we are standing on.
