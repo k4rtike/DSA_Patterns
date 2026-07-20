@@ -11,6 +11,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/k4rtike/DSA_Patterns/tree/master/0622-design-circular-queue) |
+| [1260-shift-2d-grid](https://github.com/k4rtike/DSA_Patterns/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -23,4 +24,12 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/k4rtike/DSA_Patterns/tree/master/0622-design-circular-queue) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/k4rtike/DSA_Patterns/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/k4rtike/DSA_Patterns/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
