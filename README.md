@@ -35,9 +35,11 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/k4rtike/DSA_Patterns/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/k4rtike/DSA_Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/k4rtike/DSA_Patterns/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/k4rtike/DSA_Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
