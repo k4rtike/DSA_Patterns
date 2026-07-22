@@ -1,43 +1,14 @@
 class Solution {
 public:
-    class SegTree {
-        int n;
-        vector<int> tree;
-    public:
-        SegTree(const vector<int>& data) {
-            n = data.size();
-            if (n > 0) {
-                tree.resize(4 * n, 0);
-                build(data, 0, 0, n - 1);
-            }
-        }
-
-        void build(const vector<int>& data, int node, int start, int end) {
-            if (start == end) {
-                tree[node] = data[start];
-                return;
-            }
-            int mid = start + (end - start) / 2;
-            build(data, 2 * node + 1, start, mid);
-            build(data, 2 * node + 2, mid + 1, end);
-            tree[node] = max(tree[2 * node + 1], tree[2 * node + 2]);
-        }
-
-        int query(int node, int start, int end, int l, int r) {
-            if (r < start || end < l) return -1;
-            if (l <= start && end <= r) return tree[node];
-            int mid = start + (end - start) / 2;
-            return max(query(2 * node + 1, start, mid, l, r),
-                       query(2 * node + 2, mid + 1, end, l, r));
-        }
-    };
-
     vector<int> maxActiveSectionsAfterTrade(string s, vector<vector<int>>& queries) {
+         ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
         int n = s.length();
         vector<pair<int, int>> blocks;
         int total_ones = 0;
 
-        // 1. Identify all 1-blocks
+        // 1. Identify all contiguous blocks of '1's
         for (int i = 0; i < n; ) {
             if (s[i] == '1') {
                 int start = i;
@@ -54,7 +25,7 @@ public:
         int m = blocks.size();
         if (m == 0) return vector<int>(queries.size(), 0);
 
-        // 2. Precalculate maximal 0-block expansions (L and R boundaries)
+        // 2. Precalculate maximal '0' expansions and internal gains
         vector<int> L(m), R(m), internal_gains(m);
         vector<int> block_starts(m), block_ends(m);
         
@@ -66,9 +37,32 @@ public:
             block_ends[i] = blocks[i].second;
         }
 
-        SegTree tree(internal_gains);
-        vector<int> answer;
-        answer.reserve(queries.size());
+        // 3. Build a Sparse Table for O(1) Range Maximum Queries
+        int max_log = 0;
+        while ((1 << max_log) <= m) max_log++;
+        vector<vector<int>> st(m, vector<int>(max_log));
+        
+        for (int i = 0; i < m; ++i) {
+            st[i][0] = internal_gains[i];
+        }
+        
+        for (int j = 1; j < max_log; ++j) {
+            for (int i = 0; i + (1 << j) <= m; ++i) {
+                st[i][j] = max(st[i][j - 1], st[i + (1 << (j - 1))][j - 1]);
+            }
+        }
+
+        // Precompute logarithms for O(1) lookup
+        vector<int> lg(m + 1, 0);
+        for (int i = 2; i <= m; ++i) {
+            lg[i] = lg[i / 2] + 1;
+        }
+
+        auto query_st = [&](int l, int r) {
+            if (l > r) return -1;
+            int j = lg[r - l + 1];
+            return max(st[l][j], st[r - (1 << j) + 1][j]);
+        };
 
         auto get_gain = [&](int idx, int li, int ri) {
             if (idx < 0 || idx >= m) return -1;
@@ -79,23 +73,26 @@ public:
             return right - left - (b - a);
         };
 
-        // 3. Process each query efficiently
+        // 4. Process queries efficiently
+        vector<int> answer;
+        answer.reserve(queries.size());
+
         for (const auto& q : queries) {
             int li = q[0], ri = q[1];
 
-            // Find blocks completely strictly inside (li, ri)
+            // Find blocks that are strictly inside (li, ri)
             int idx_start = upper_bound(block_starts.begin(), block_starts.end(), li) - block_starts.begin();
             int idx_end = lower_bound(block_ends.begin(), block_ends.end(), ri) - block_ends.begin() - 1;
 
             int max_gain = 0;
             if (idx_start <= idx_end) {
-                // Case A: Evaluate the first block in range
+                // Check edge blocks whose expansions are constrained by li or ri
                 max_gain = max(max_gain, get_gain(idx_start, li, ri));
-                // Case B: Evaluate the last block in range
                 max_gain = max(max_gain, get_gain(idx_end, li, ri));
-                // Case C: Query the maximum internal gain for blocks strictly in between
+                
+                // Query unconstrained internal blocks via Sparse Table in O(1)
                 if (idx_start + 1 <= idx_end - 1) {
-                    max_gain = max(max_gain, tree.query(0, 0, m - 1, idx_start + 1, idx_end - 1));
+                    max_gain = max(max_gain, query_st(idx_start + 1, idx_end - 1));
                 }
             }
             answer.push_back(total_ones + max_gain);
