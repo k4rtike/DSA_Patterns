@@ -11,6 +11,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/k4rtike/DSA_Patterns/tree/master/0622-design-circular-queue) |
+| [0739-daily-temperatures](https://github.com/k4rtike/DSA_Patterns/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/k4rtike/DSA_Patterns/tree/master/1260-shift-2d-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -45,6 +46,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/k4rtike/DSA_Patterns/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/k4rtike/DSA_Patterns/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/k4rtike/DSA_Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Enumeration
 |  |
@@ -66,4 +68,8 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/k4rtike/DSA_Patterns/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
