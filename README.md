@@ -10,6 +10,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/k4rtike/DSA_Patterns/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/k4rtike/DSA_Patterns/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/k4rtike/DSA_Patterns/tree/master/1260-shift-2d-grid) |
@@ -46,6 +47,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/k4rtike/DSA_Patterns/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/k4rtike/DSA_Patterns/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/k4rtike/DSA_Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Enumeration
@@ -72,6 +74,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/k4rtike/DSA_Patterns/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
