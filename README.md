@@ -64,6 +64,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/k4rtike/DSA_Patterns/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,4 +73,8 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/k4rtike/DSA_Patterns/tree/master/0739-daily-temperatures) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/k4rtike/DSA_Patterns/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
