@@ -12,6 +12,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/k4rtike/DSA_Patterns/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/k4rtike/DSA_Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/k4rtike/DSA_Patterns/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/k4rtike/DSA_Patterns/tree/master/1260-shift-2d-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -65,6 +66,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/k4rtike/DSA_Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/k4rtike/DSA_Patterns/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -79,5 +81,6 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/k4rtike/DSA_Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/k4rtike/DSA_Patterns/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
