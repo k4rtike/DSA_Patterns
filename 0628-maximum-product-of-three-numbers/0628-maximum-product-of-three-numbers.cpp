@@ -16,6 +16,6 @@ public:
         long long option1 = (long long)max1 * max2 * max3;
         long long option2 = (long long)min1 * min2 * max1;
         
-        return std::max(option1, option2);
+        return max(option1, option2);
     }
 };
