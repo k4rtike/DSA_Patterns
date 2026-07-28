@@ -30,6 +30,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/k4rtike/DSA_Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/k4rtike/DSA_Patterns/tree/master/0622-design-circular-queue) |
 ## Matrix
 |  |
@@ -43,6 +44,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/k4rtike/DSA_Patterns/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/k4rtike/DSA_Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/k4rtike/DSA_Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -100,5 +102,10 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/k4rtike/DSA_Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/k4rtike/DSA_Patterns/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
