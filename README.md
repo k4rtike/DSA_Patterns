@@ -51,6 +51,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | [3499-maximize-active-section-with-trade-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtike/DSA_Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/k4rtike/DSA_Patterns/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -106,9 +108,15 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | [0383-ransom-note](https://github.com/k4rtike/DSA_Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/k4rtike/DSA_Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/k4rtike/DSA_Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/k4rtike/DSA_Patterns/tree/master/0387-first-unique-character-in-a-string) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
