@@ -46,6 +46,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | [0020-valid-parentheses](https://github.com/k4rtike/DSA_Patterns/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/k4rtike/DSA_Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/k4rtike/DSA_Patterns/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/k4rtike/DSA_Patterns/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/k4rtike/DSA_Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/k4rtike/DSA_Patterns/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -118,6 +119,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | ------- |
 | [0383-ransom-note](https://github.com/k4rtike/DSA_Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/k4rtike/DSA_Patterns/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/k4rtike/DSA_Patterns/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/k4rtike/DSA_Patterns/tree/master/1189-maximum-number-of-balloons) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -127,5 +129,6 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/k4rtike/DSA_Patterns/tree/master/0409-longest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
