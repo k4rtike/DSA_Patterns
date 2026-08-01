@@ -10,6 +10,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/k4rtike/DSA_Patterns/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/k4rtike/DSA_Patterns/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtike/DSA_Patterns/tree/master/0628-maximum-product-of-three-numbers) |
@@ -80,6 +81,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/k4rtike/DSA_Patterns/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtike/DSA_Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -136,4 +138,16 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | [0409-longest-palindrome](https://github.com/k4rtike/DSA_Patterns/tree/master/0409-longest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/k4rtike/DSA_Patterns/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/k4rtike/DSA_Patterns/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/k4rtike/DSA_Patterns/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
