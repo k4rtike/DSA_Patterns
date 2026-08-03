@@ -17,6 +17,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | [0739-daily-temperatures](https://github.com/k4rtike/DSA_Patterns/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/k4rtike/DSA_Patterns/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/k4rtike/DSA_Patterns/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/k4rtike/DSA_Patterns/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/k4rtike/DSA_Patterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -85,6 +86,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | [0486-predict-the-winner](https://github.com/k4rtike/DSA_Patterns/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtike/DSA_Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/k4rtike/DSA_Patterns/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/k4rtike/DSA_Patterns/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -145,6 +147,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | ------- |
 | [0486-predict-the-winner](https://github.com/k4rtike/DSA_Patterns/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/k4rtike/DSA_Patterns/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/k4rtike/DSA_Patterns/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -154,4 +157,5 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | ------- |
 | [0486-predict-the-winner](https://github.com/k4rtike/DSA_Patterns/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/k4rtike/DSA_Patterns/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/k4rtike/DSA_Patterns/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
