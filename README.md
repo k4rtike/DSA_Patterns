@@ -22,6 +22,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | [3501-maximize-active-section-with-trade-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/k4rtike/DSA_Patterns/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +111,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/k4rtike/DSA_Patterns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/k4rtike/DSA_Patterns/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/k4rtike/DSA_Patterns/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -132,6 +134,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | [1189-maximum-number-of-balloons](https://github.com/k4rtike/DSA_Patterns/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/k4rtike/DSA_Patterns/tree/master/3731-find-missing-elements) |
 ## Combinatorics
 |  |
 | ------- |
