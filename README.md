@@ -85,6 +85,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/k4rtike/DSA_Patterns/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/k4rtike/DSA_Patterns/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtike/DSA_Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/k4rtike/DSA_Patterns/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/k4rtike/DSA_Patterns/tree/master/1406-stone-game-iii) |
@@ -149,12 +150,14 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/k4rtike/DSA_Patterns/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/k4rtike/DSA_Patterns/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/k4rtike/DSA_Patterns/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/k4rtike/DSA_Patterns/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/k4rtike/DSA_Patterns/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/k4rtike/DSA_Patterns/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -173,4 +176,8 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/k4rtike/DSA_Patterns/tree/master/3310-remove-methods-from-project) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/k4rtike/DSA_Patterns/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
