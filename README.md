@@ -67,6 +67,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | ------- |
 | [0020-valid-parentheses](https://github.com/k4rtike/DSA_Patterns/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/k4rtike/DSA_Patterns/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/k4rtike/DSA_Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/k4rtike/DSA_Patterns/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/k4rtike/DSA_Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -177,6 +178,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/k4rtike/DSA_Patterns/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/k4rtike/DSA_Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/k4rtike/DSA_Patterns/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -206,8 +208,10 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/k4rtike/DSA_Patterns/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/k4rtike/DSA_Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/k4rtike/DSA_Patterns/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/k4rtike/DSA_Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
