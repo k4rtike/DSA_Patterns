@@ -47,6 +47,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/k4rtike/DSA_Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/k4rtike/DSA_Patterns/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/k4rtike/DSA_Patterns/tree/master/0022-generate-parentheses) |
 | [0383-ransom-note](https://github.com/k4rtike/DSA_Patterns/tree/master/0383-ransom-note) |
@@ -137,6 +138,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/k4rtike/DSA_Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0383-ransom-note](https://github.com/k4rtike/DSA_Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/k4rtike/DSA_Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/k4rtike/DSA_Patterns/tree/master/0409-longest-palindrome) |
@@ -197,6 +199,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/k4rtike/DSA_Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/k4rtike/DSA_Patterns/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
