@@ -16,6 +16,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | [0628-maximum-product-of-three-numbers](https://github.com/k4rtike/DSA_Patterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/k4rtike/DSA_Patterns/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/k4rtike/DSA_Patterns/tree/master/0877-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/k4rtike/DSA_Patterns/tree/master/0930-binary-subarrays-with-sum) |
 | [1260-shift-2d-grid](https://github.com/k4rtike/DSA_Patterns/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/k4rtike/DSA_Patterns/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/k4rtike/DSA_Patterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -143,6 +144,7 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 | [0383-ransom-note](https://github.com/k4rtike/DSA_Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/k4rtike/DSA_Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/k4rtike/DSA_Patterns/tree/master/0409-longest-palindrome) |
+| [0930-binary-subarrays-with-sum](https://github.com/k4rtike/DSA_Patterns/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/k4rtike/DSA_Patterns/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/k4rtike/DSA_Patterns/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -244,4 +246,12 @@ DSA Pattern Sheet : https://docs.google.com/spreadsheets/d/17Ri-tyL3HTKSTG2IBKJ8
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/k4rtike/DSA_Patterns/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/k4rtike/DSA_Patterns/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/k4rtike/DSA_Patterns/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
